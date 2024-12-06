@@ -1,0 +1,108 @@
+.Parallaxl{
+    background-image: url("dzulfikar-alkautsar-_WDA6TdJJhE-unsplash\ \(1\)\ \(1\).jpg");
+    background-size: cover;
+    height: 800px;
+    background-attachment: fixed;
+}
+assortment-traditional-indonesian-bakso_23-2148933287.avif
+body{
+    margin: 0;
+}
+.Paragraph1{
+    font-family: "Sour Gummy", sans-serif;
+    margin: 10px 90px 10px 90px;
+    text-align: justify;
+
+    line-height: 30px;
+    font-size: 20px;
+}
+.Parallax2{
+    background-image: url("WhatsApp\ Image\ 2024-11-21\ at\ 14.42.47_ae4f58be.jpg");
+    background-size: cover;
+    height: 1000px;
+    background-attachment: fixed;
+}
+
+body{
+    margin: 0;
+}
+.Paragraph2{
+    font-family: "Sour Gummy", sans-serif;
+    margin: 10px 90px 10px 90px;
+    text-align: justify;
+
+    line-height: 30px;
+    font-size: 20px;
+}
+.Parallax3{
+    background-image: url("pexels-baarast-project-243124132-16201174\ \(1\).jpg");
+    background-size: cover;
+    height: 1000px;
+    background-attachment: fixed;
+}
+
+body{
+    margin: 0;
+}
+.Paragraph3{
+    font-family: "Sour Gummy", sans-serif;
+    margin: 10px 90px 10px 90px;
+    text-align: justify;
+
+    line-height: 30px;
+    font-size: 20px;
+}
+.Parallax4{
+    background-image: url("assortment-delicious-bakso-bowl_23-2148967855.avif");
+    background-size: cover;
+    height: 1000px;
+    background-attachment: fixed;
+}
+
+body{
+    margin: 0;
+}
+.Paragraph4{
+    font-family: "Sour Gummy", sans-serif;
+    margin: 10px 90px 10px 90px;
+    text-align: justify;
+
+    line-height: 30px;
+    font-size: 20px;
+}
+.Parallax5{
+    background-image: url("muhammad-arifin-nursalim-EiV8aMaTVCc-unsplash\ \(1\).jpg");
+    background-size: cover;
+    height: 1000px;
+    background-attachment: fixed;
+}
+
+body{
+    margin: 0;
+}
+.Paragraph5{
+    font-family: "Sour Gummy", sans-serif;
+    margin: 10px 90px 10px 90px;
+    text-align: justify;
+
+    line-height: 30px;
+    font-size: 20px;
+}
+.Parallax6{
+    background-image: url("abil-arqam-a8ZPw0c0WrQ-unsplash\ \(1\).jpg");
+    background-size: cover;
+    height: 1000px;
+    background-attachment: fixed;
+}
+
+.parallaxl-title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    font-family: "Sour Gummy", sans-serif;
+    width: 100%;
+    color: white;
+    font-size: 26px;
+    text-align: center;
+}

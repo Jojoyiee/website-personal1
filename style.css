@@ -1,0 +1,58 @@
+@keyframes animasi {
+    100% {
+        background-position: 25% 50%;
+    }
+}
+
+
+
+body {
+    background-image: url("rainbow-vortex.png");
+background-attachment: fixed;
+animation: animasi 5s infinite alternate
+}
+.box{
+    background-color: floralwhite;
+    width: 48%;
+    height: 100%;
+    margin:auto;
+    margin-top: 130px;
+    border-radius: 25px;
+   
+    text-align: center;
+font-family: "Sour Gummy", sans-serif;
+   color: hotpink;
+}
+
+.button{
+    background-color: hotpink;
+    padding: 10px 30px 10px 30px;
+    color: white;
+    text-align: center;
+    border-radius: 100px;
+    text-decoration: none;
+}
+
+.paragraph{
+    margin-bottom: 30px;
+    text-align: justify;
+}
+
+.image-box{
+    background-image: url("desktop-wallpaper-bakso-indonesian-food.jpg");
+    height: 180px;
+    background-size: cover;
+    border-radius: 25px 25px 0px 0px;
+}
+
+.text-box{
+    padding: 8px 30px 30px 30px;
+}
+
+.footer{
+    background-color: hotpink;
+    height: 50px;
+    border-radius: 0px 0px 25px 25px;
+    color: white;
+    padding: 5px 
+}
